@@ -105,3 +105,5 @@ jq '.' content2.json
         "city": "Bangalore"
       }
     }
+### Reference
+https://lzone.de/cheat-sheet/jq
